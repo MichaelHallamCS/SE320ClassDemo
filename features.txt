@@ -1,4 +1,4 @@
 date=09/10/2026
 day=Thu
 temp=75
-relativeHum=60
+relativeHum=70
